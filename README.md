@@ -1,2 +1,1 @@
-# Color-Picker
-A small game
+# Color-Picker game
